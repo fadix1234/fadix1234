@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, NodeJS, React, Redux, Data Structures, Algorithms**
 
-- 📫 How to reach me **jgisela123@yahoo.com**
+- 📫 How to reach me **jgiselaaa1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
